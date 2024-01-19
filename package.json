@@ -1,5 +1,5 @@
 {
-  "name": "25-Ins_Mongoose-CRUD",
+  "name": "Social_Network_API",
   "version": "1.0.1",
   "description": "Instructor demo for CRUD operations in Mongoose on subdocuments",
   "main": "index.js",
